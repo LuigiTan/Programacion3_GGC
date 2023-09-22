@@ -182,12 +182,37 @@ Así mismo, si el miembro es si mismo es un tipo de clase que no tiene un constr
 (No comprendo a que se refiere con "zero-parameter constructor")
 
 #### Constructor *explicit*
-El constructor *IntCell* es *explicit*. Todos los constructores de un-parámetro deberian de hacerse *explicit* para evitar 
-Es un constructor que recibe parametros.
-Si no se da parametro se vuelve uno implicito
-This is a test btw
+El constructor *IntCell* es *explicit*. Todos los constructores de un-parámetro deberían de hacerse *explicit* para evitar conversiones "behind the scenes".
+Es un constructor que recibe parámetros.
+Si no se da parámetro se vuelve uno implícito
 
+*(Siento como que el libro realmente no sabe como resumir la funcionalidad de algo en pocas palabras)*
+
+#### "Member Function" *Constant*
+Esta es una *member function* que examina pero no cambia el estado de sus objetos, también conocido como un ***accessor***. Por otro lado un miembro que *si* cambia el estado del objeto se le conoce como un ***mutator***.
+*Const* genera un tipo de valor que tiene una dirección de memoria como tal pero el valor dentro de esta no puede ser cambiado dentro del código.
+### *Vector* y *String*
+El propósito de *vector* es reemplazar los arreglos creados dentro de C++, los cuales suelen crear problemas sin cesar. El problemas con estos arreglos es que no se comportan como objetos de primera clase.
+Por otro lado *String* es un conjunto ordenado de letras (caracteres). O un arreglo de letras de cierta forma
+```
+string nombre = "Juan";
+```
+*nombre* es una variable que contiene 4 caracteres: la J, la u, la a y la n.
+
+Se puede acceder a cada uno de los elementos de este conjunto refiriéndose a la posición que ocupan, empezando por el *0*. Es decir:  
+Puedes acceder a la J con *nombre[0]*  
+Puedes acceder a la u con *nombre[1]*  
+Puedes acceder a la a con *nombre[2]*  
+Puedes acceder a la n con *nombre[3]*
+
+También puedes modificar las posiciones, por ejemplo, "*nombre[0] = 'X'*" hará que *nombre* pase a ser "*Xuan*".
+## Opinion Critica
+Personalmente siento que en general este libro no es *tan* malo, pero para alguien que apenas esta comenzando o no tiene nociones firmes de los temas mas importantes, es un libro muy agobiante, pues constantemente esta mencionando temas que después va a explicar en vez de explicarlos en el momento cuando se necesitan y da muchos rodeos para terminar de ejemplificar algo. Así mismo el libro tiende a sobre complicar explicaciones de conceptos que podría terminar en un par de renglones, algunas veces sin dar una respuesta concreta.
+En cuanto a una queja un poco mas personal, siento que incluso sabiendo ingles y poder leerlo sin ninguna dificultad, seguido me encontraba el problema de que mucha terminología técnica no sabia como traducirla, siempre podia traducirla directamente pero en la mayoría de casos eso quedaba leyéndose raro o no teniendo sentido 
+## Conclusiones
+Si bien personalmente no sentí como que las clases de programación en semestres anteriores fueran "malas" pues yo venia completamente en 0s sobre el tema e ir tan lento me ayudo a entenderle mejor a la materia y que se me pegaran mejor los conceptos básicos, si puedo ver que tal vez fuimos mas lento de lo que hubiera sido optimo, pues el salto en complejidad de segundo a tercero es muy evidente y si nos hubieran enseñado mas sobre esto en clases anteriores o abarcado mas temas en general, no estaría batallando tanto hoy. Los temas nuevos aunque se sienten algo familiares, también se sienten como algo mucho mas complejo y enredoso que cualquier cosa que hemos visto hasta ahorita, el libro ha ayudado un poco pero tal vez sea bueno buscar otras fuentes de donde apoyarnos.
 ## Referencias
 - J. Pérez Porto and A. Gardey, “Logaritmo,” _Definición.de_, 14-Nov-2018. [Online]. Available: https://definicion.de/logaritmo/. [Accessed: 20-Sep-2023].
 - “¿Qué es la aritmética modular?,” Khan Academy. [Online]. Available: https://es.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic. [Accessed: 20-Sep-2023].
 - M. A. Weiss, _Data Structures and Algorithm Analysis in C++_, 4th ed. Upper Saddle River, NJ: Pearson, 2013.
+- “C++ Variables de tipo string (avanzado),” _Olimpiada-informatica.org_. [Online]. Available: https://aprende.olimpiada-informatica.org/cpp-string. [Accessed: 22-Sep-2023].
