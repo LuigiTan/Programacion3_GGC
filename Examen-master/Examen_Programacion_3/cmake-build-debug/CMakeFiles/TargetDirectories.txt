@@ -1,0 +1,3 @@
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Examen-master/Examen_Programacion_3/cmake-build-debug/CMakeFiles/Examen.dir
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Examen-master/Examen_Programacion_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Examen-master/Examen_Programacion_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

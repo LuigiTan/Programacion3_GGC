@@ -1,3 +1,3 @@
 #include "FloatCell.h"
 
-INtCell::
+IntCell::
