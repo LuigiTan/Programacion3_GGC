@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texto/Documentación de una Lista.md",
+                "file": "Texto/Resumen Capitulo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bcf7dc86743b742e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texto/Documentación de una Lista.md",
+                "file": "Texto/Resumen Capitulo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texto/Documentación de una Lista.md",
+                "file": "Texto/Resumen Capitulo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texto/Documentación de una Lista.md"
+                "file": "Texto/Resumen Capitulo 3.md"
               }
             }
           }
@@ -149,6 +148,9 @@
   },
   "active": "43107668e95ce035",
   "lastOpenFiles": [
+    "Texto/Imagenes/Pasted image 20231005222101.png",
+    "Texto/Documentación de Una clase.md",
+    "Texto/Documentación de una Lista.md",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp612af",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpc4c5e",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rules.ninja.tmpbeb97",
@@ -156,16 +158,13 @@
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmpabaaa",
     "Texto/Resumen Capitulo 3.md",
     "Texto/Resumen Capitulo 1.md",
-    "Pasted image 20231005222128.png",
-    "Pasted image 20231005222114.png",
-    "Pasted image 20231005222101.png",
-    "Texto/Documentación de una Lista.md",
+    "Texto/Imagenes/Pasted image 20231005222128.png",
+    "Texto/Imagenes/Pasted image 20231005222114.png",
     "Practicas/Tema 3 Documentacion Lista/SLList.h",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp0fac5",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpa8508",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rules.ninja.tmp3efed",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/build.ninja.tmp4ba73",
-    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp26e09",
     "Texto/Clase 1.md",
     "Texto/Imagenes/Pasted image 20230921022935.png",
     "Texto/Imagenes/Pasted image 20231004225114.png",
@@ -174,7 +173,6 @@
     "Texto/Imagenes/Pasted image 20231004225206.png",
     "Texto/Imagenes/Pasted image 20231005023500.png",
     "Texto/Imagenes/Pasted image 20231005002304.png",
-    "Texto/Documentación de Una clase.md",
     "Texto/Creacion de una clase.md",
     "Texto/Examen Primer Parcial.md",
     "Examen 1/Examen_Programacion_3/Instrucciones.md"
