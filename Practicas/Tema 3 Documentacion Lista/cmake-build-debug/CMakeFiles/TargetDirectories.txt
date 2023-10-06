@@ -1,0 +1,3 @@
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/Tema_3_Documentacion_Lista.dir
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luigi/Documents/Uniat S3/Progra 3/Trabajos Progra 3/Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir

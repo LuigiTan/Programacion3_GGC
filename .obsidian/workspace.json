@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "328628fcc0ca27b3",
+            "id": "43107668e95ce035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texto/Clase 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6518438b6ee6b9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texto/Creacion de una clase.md",
+                "file": "Texto/Documentación de una Lista.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bcf7dc86743b742e",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texto/Creacion de una clase.md",
+                "file": "Texto/Documentación de una Lista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texto/Creacion de una clase.md",
+                "file": "Texto/Documentación de una Lista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texto/Creacion de una clase.md"
+                "file": "Texto/Documentación de una Lista.md"
               }
             }
           }
@@ -159,24 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6518438b6ee6b9ce",
+  "active": "43107668e95ce035",
   "lastOpenFiles": [
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/intermediate.manifest",
-    "Practicas/Tema 1/cmake-build-debug/Tema_1.pdb",
-    "Practicas/Tema 1/cmake-build-debug/Tema_1.exe",
-    "Practicas/Tema 1/cmake-build-debug/Tema_1.ilk",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/manifest.res",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/embed.manifest",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/manifest.rc",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/main.cpp.obj",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/FloatCell.cpp.obj",
-    "Practicas/Tema 1/cmake-build-debug/CMakeFiles/Tema_1.dir/vc140.pdb",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp612af",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpc4c5e",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rules.ninja.tmpbeb97",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/build.ninja.tmp8de51",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmpabaaa",
+    "Texto/Resumen Capitulo 3.md",
     "Texto/Resumen Capitulo 1.md",
-    "Texto/Creacion de una clase.md",
-    "Texto/Documentación de Una clase.md",
-    "Texto/Examen Primer Parcial.md",
+    "Pasted image 20231005222128.png",
+    "Pasted image 20231005222114.png",
+    "Pasted image 20231005222101.png",
+    "Texto/Documentación de una Lista.md",
+    "Practicas/Tema 3 Documentacion Lista/SLList.h",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp0fac5",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpa8508",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rules.ninja.tmp3efed",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/build.ninja.tmp4ba73",
+    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp26e09",
     "Texto/Clase 1.md",
-    "Examen-master/Examen_Programacion_3/cmake-build-debug/Examen.exe",
+    "Texto/Imagenes/Pasted image 20230921022935.png",
+    "Texto/Imagenes/Pasted image 20231004225114.png",
+    "Texto/Imagenes/Pasted image 20231004225405.png",
+    "Texto/Imagenes/Pasted image 20231004225459.png",
+    "Texto/Imagenes/Pasted image 20231004225206.png",
+    "Texto/Imagenes/Pasted image 20231005023500.png",
+    "Texto/Imagenes/Pasted image 20231005002304.png",
+    "Texto/Documentación de Una clase.md",
+    "Texto/Creacion de una clase.md",
+    "Texto/Examen Primer Parcial.md",
     "Examen 1/Examen_Programacion_3/Instrucciones.md"
   ]
 }
