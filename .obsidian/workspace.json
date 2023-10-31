@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "fd734890b6f7d511",
+        "id": "08ce0e67db7a104c",
         "type": "tabs",
         "children": [
-          {
-            "id": "43107668e95ce035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texto/Resumen Capitulo 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "28baf9fff60c2fd3",
             "type": "leaf",
@@ -30,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a385f9650141165a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texto/ReadMe Lista Doblemente Enlazada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99b44bf9d585a700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43107668e95ce035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texto/ReadMe Lista Doblemente Enlazada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texto/ReadMe Lista Doblemente Enlazada.md",
+                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texto/ReadMe Lista Doblemente Enlazada.md",
+                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texto/ReadMe Lista Doblemente Enlazada.md"
+                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md"
               }
             }
           }
@@ -159,12 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28baf9fff60c2fd3",
+  "active": "99b44bf9d585a700",
   "lastOpenFiles": [
-    "Texto/Documentación de Una clase.md",
-    "Texto/Documentación de una Lista.md",
     "Texto/ReadMe Lista Doblemente Enlazada.md",
+    "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+    "Practicas/Revision Completa Listas-Pila-Cola/Stack.h~",
+    "Practicas/Revision Completa Listas-Pila-Cola/Queue.h~",
+    "Practicas/Revision Completa Listas-Pila-Cola/DLList.h~",
+    "Texto/Documentación de una Lista.md",
+    "Practicas/Documentacion de un arbol/AVLTree.h~",
+    "Texto/Read me Arbol.md",
+    "Texto/Examen Primer Parcial.md",
     "Texto/Resumen Capitulo 3.md",
+    "Texto/Documentación de Una clase.md",
     "Texto/Imagenes/Pasted image 20231005222101.png",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp612af",
     "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpc4c5e",
@@ -175,10 +206,6 @@
     "Texto/Imagenes/Pasted image 20231005222128.png",
     "Texto/Imagenes/Pasted image 20231005222114.png",
     "Practicas/Tema 3 Documentacion Lista/SLList.h",
-    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeCache.txt.tmp0fac5",
-    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/cmake_install.cmake.tmpa8508",
-    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/CMakeFiles/rules.ninja.tmp3efed",
-    "Practicas/Tema 3 Documentacion Lista/cmake-build-debug/build.ninja.tmp4ba73",
     "Texto/Clase 1.md",
     "Texto/Imagenes/Pasted image 20230921022935.png",
     "Texto/Imagenes/Pasted image 20231004225114.png",
@@ -188,7 +215,6 @@
     "Texto/Imagenes/Pasted image 20231005023500.png",
     "Texto/Imagenes/Pasted image 20231005002304.png",
     "Texto/Creacion de una clase.md",
-    "Texto/Examen Primer Parcial.md",
     "Examen 1/Examen_Programacion_3/Instrucciones.md"
   ]
 }

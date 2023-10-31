@@ -56,6 +56,13 @@ build CMakeFiles\Lista_Doblemente_Enlazada.dir\main.cpp.obj: CXX_COMPILER__Lista
   TARGET_COMPILE_PDB = CMakeFiles\Lista_Doblemente_Enlazada.dir\
   TARGET_PDB = Lista_Doblemente_Enlazada.pdb
 
+build CMakeFiles\Lista_Doblemente_Enlazada.dir\Revision_Completa.cpp.obj: CXX_COMPILER__Lista_Doblemente_Enlazada_unscanned_Debug C$:\Users\luigi\Documents\Uniat$ S3\Progra$ 3\Trabajos$ Progra$ 3\Practicas\Lista$ Doblemente$ Enlazada\Revision_Completa.cpp || cmake_object_order_depends_target_Lista_Doblemente_Enlazada
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\Lista_Doblemente_Enlazada.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lista_Doblemente_Enlazada.dir
+  TARGET_COMPILE_PDB = CMakeFiles\Lista_Doblemente_Enlazada.dir\
+  TARGET_PDB = Lista_Doblemente_Enlazada.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Lista_Doblemente_Enlazada
@@ -64,7 +71,7 @@ build CMakeFiles\Lista_Doblemente_Enlazada.dir\main.cpp.obj: CXX_COMPILER__Lista
 #############################################
 # Link the executable Lista_Doblemente_Enlazada.exe
 
-build Lista_Doblemente_Enlazada.exe: CXX_EXECUTABLE_LINKER__Lista_Doblemente_Enlazada_Debug CMakeFiles\Lista_Doblemente_Enlazada.dir\main.cpp.obj
+build Lista_Doblemente_Enlazada.exe: CXX_EXECUTABLE_LINKER__Lista_Doblemente_Enlazada_Debug CMakeFiles\Lista_Doblemente_Enlazada.dir\main.cpp.obj CMakeFiles\Lista_Doblemente_Enlazada.dir\Revision_Completa.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
