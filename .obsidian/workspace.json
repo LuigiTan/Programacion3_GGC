@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+                "file": "Texto/Read me Arbol.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+                "file": "Texto/Read me Arbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+                "file": "Texto/Read me Arbol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texto/Readme Revision Completa, Listas, Stack y Queue.md"
+                "file": "Texto/Read me Arbol.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99b44bf9d585a700",
+  "active": "264d3518aa1b2bf5",
   "lastOpenFiles": [
-    "Texto/ReadMe Lista Doblemente Enlazada.md",
     "Texto/Readme Revision Completa, Listas, Stack y Queue.md",
+    "Texto/ReadMe Lista Doblemente Enlazada.md",
     "Practicas/Revision Completa Listas-Pila-Cola/Stack.h~",
     "Practicas/Revision Completa Listas-Pila-Cola/Queue.h~",
     "Practicas/Revision Completa Listas-Pila-Cola/DLList.h~",
